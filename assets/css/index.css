@@ -108,3 +108,17 @@ body {
     bottom: 50px;
     opacity: 1;
 }
+
+@media (max-width:630px){
+    .container-input{
+        text-align: center;
+        justify-content: center;
+    }
+
+    body{
+        width: 90%;
+        height: 100vh;
+        justify-content: center;
+    }
+    
+}
